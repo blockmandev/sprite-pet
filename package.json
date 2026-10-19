@@ -12,21 +12,19 @@
     "typescript",
     "web"
   ],
-  "homepage": "https://cixiangtao.github.io/sprite-pet/",
   "bugs": {
-    "url": "https://github.com/cixiangtao/sprite-pet/issues"
+    "url": "https://github.com/blockmandev/sprite-pet/issues"
   },
   "license": "MIT",
-  "author": "cixiangtao",
+  "author": "blockmandev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cixiangtao/sprite-pet.git"
+    "url": "git+https://github.com/blockmandev/sprite-pet.git"
   },
   "files": [
     "dist",
     "CHANGELOG.md",
-    "README.md",
-    "README.zh-CN.md"
+    "README.md"
   ],
   "type": "module",
   "sideEffects": false,
