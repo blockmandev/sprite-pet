@@ -1,18 +1,12 @@
 # sprite-pet
 
-English · [简体中文](./README.zh-CN.md)
+English
 
 A small, framework-agnostic TypeScript runtime for animated pets on the web. It separates semantic
 browser behavior from source-atlas state names, preserves exact frame timing, and includes both a
 CSS sprite runtime and the original high-DPI Canvas renderer.
 
-The npm package ships no character artwork. The repository owner has confirmed explicit permission
-for this project to display and distribute the downloadable files under `pets/`; that project-level
-authorization does not place the artwork under the MIT License or grant downstream reuse rights.
-See [THIRD_PARTY_ASSETS.md](../THIRD_PARTY_ASSETS.md).
 
-[Open the live demo](https://cixiangtao.github.io/sprite-pet/) to choose a pet, trigger behavior,
-inspect its source-state mapping, and try floating, dragging, and resizing.
 
 ## Features
 
@@ -294,6 +288,4 @@ Contributions are welcome. Read [CONTRIBUTING.md](../CONTRIBUTING.md) or its
 
 ## License
 
-The renderer source is available under the [MIT License](../LICENSE). Downloadable pet artwork is
-authorized for this project's public distribution but is not covered by that license; read
-[THIRD_PARTY_ASSETS.md](../THIRD_PARTY_ASSETS.md) before publishing or reusing it elsewhere.
+The renderer source is available under the [MIT License](../LICENSE).
