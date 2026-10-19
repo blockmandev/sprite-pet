@@ -23,28 +23,6 @@ CSS sprite runtime and the original high-DPI Canvas renderer.
 - Device-pixel-ratio-aware output and configurable sizing
 - ESM bundle and TypeScript declarations built with tsdown
 
-## Download a pet
-
-The website packages each built-in pet as a ZIP containing `pet.json`, `spritesheet.webp`, and
-`NOTICE.md`. These downloads are optional website assets; installing `sprite-pet` never installs
-character artwork.
-
-| Pet               | Download                                                                                              |
-| ----------------- | ----------------------------------------------------------------------------------------------------- |
-| Doro              | [doro.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/doro.zip)                           |
-| Goku              | [goku.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/goku.zip)                           |
-| 咕嘎              | [guga.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/guga.zip)                           |
-| 胡桃              | [hutao.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/hutao.zip)                         |
-| ikkun             | [ikkun.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/ikkun.zip)                         |
-| ikun-gaara        | [ikun-gaara.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/ikun-gaara.zip)               |
-| ikun-giegie       | [ikun-giegie.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/ikun-giegie.zip)             |
-| ikunchick         | [ikunchick.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/ikunchick.zip)                 |
-| Kimlet Hover Clap | [kimlet-hover-clap.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/kimlet-hover-clap.zip) |
-| Mini Elon         | [mini-elon.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/mini-elon.zip)                 |
-| Nimbus            | [nimbus.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/nimbus.zip)                       |
-| Shinchan          | [shinchan.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/shinchan.zip)                   |
-| Trump             | [trump.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/trump.zip)                         |
-| Usagi             | [usagi.zip](https://cixiangtao.github.io/sprite-pet/pets/downloads/usagi.zip)                         |
 
 The source folders are available in [`pets/`](../pets/). The project is authorized to serve these
 specific files, but download availability is not a downstream license grant; review the included
