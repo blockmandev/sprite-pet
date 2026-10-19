@@ -260,9 +260,8 @@ Release Please maintains the release PR automatically. Maintainers should follow
 [release procedure](../RELEASING.md), review its version, changelog, and CI, and merge it when ready.
 GitHub Actions owns the tag and npm publication.
 
-Contributions are welcome. Read [CONTRIBUTING.md](../CONTRIBUTING.md) or its
-[Chinese translation](../CONTRIBUTING.zh-CN.md), and report vulnerabilities through
-[SECURITY.md](../SECURITY.md) or [SECURITY.zh-CN.md](../SECURITY.zh-CN.md).
+Contributions are welcome. Read [CONTRIBUTING.md](../CONTRIBUTING.md).
+[SECURITY.md](../SECURITY.md).
 
 ## License
 
